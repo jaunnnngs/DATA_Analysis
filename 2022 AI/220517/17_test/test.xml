@@ -1,0 +1,12 @@
+<annotation>
+	<size width='666' height='375' depth='3'></size>
+	<object>
+		<name>label</name>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>122</ymin>
+			<xmax>361</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>
