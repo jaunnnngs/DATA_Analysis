@@ -19,7 +19,7 @@ class MyCustomDatasetImage(Dataset):
         data_split = data_path.split('/')
         data_labels = data_split[2]
         # ['.', 'Grapevine_Leaves_Image_Dataset', 'Ak', 'Ak (99).png']
-        # windows
+        # 주의 windows
         # data_split = data_path.split('\\')
         labels = 0
         if data_labels == 'AK':
@@ -34,7 +34,7 @@ class MyCustomDatasetImage(Dataset):
             labels = 4
 
         # print(data_labels, labels)
-        # cv2 PIL 이용해서 이미지 변경 해주시면 됩니다.
+        # cv2 PIL 이용해서 이미지 변경 하기
         return data_path, labels
         # 정의 작성된 내용을 구현
 

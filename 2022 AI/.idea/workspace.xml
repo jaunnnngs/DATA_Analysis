@@ -2,10 +2,678 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb554275-d3d4-4d89-b14b-f1d43b0de89c" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/220525/과제2_박정민_최종.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220523/pythonProject1/5월23일_5월27일-수업목표 .pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220523/pythonProject1/cr_image_수업.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220523/pythonProject1/main_수업.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220523/pythonProject1/데이터-크롤링.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220524/pythonProject/기타/00.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220524/pythonProject/기타/02-fix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220524/pythonProject/기타/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220524/pythonProject/기타/crawling_assignment_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220524/pythonProject/기타/resume.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220524/pythonProject/기타/데이터-ImageAugmentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220526/Data_Augmentation_for_Computer_Vision.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220526/Matplotlib.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220526/auto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220526/cutMix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220526/cutout (1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220526/cutout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220526/image_padding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220526/mixup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/GUI만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/boxlayout_prac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/opencv_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI/.idea/GUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI/216C553953FC27C335.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI/Drag_files_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI/QFileDialog_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI/boxLayout_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI/opencv_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI/slider_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/GUI/web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/boxlayout_ex (1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/boxlayout_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/main (1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/main (2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/main (3).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/memo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/opencv_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/python GUI.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220530/수업자료/slider_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/5월 월말 프로젝트 보고서.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/5월 월말 프로젝트_박정민.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/5월31일 - 프로젝트.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_165.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_170.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_171.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_172.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_201.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_207.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_212.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_213.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_358.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_367.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_373.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/Dragon_fruit/용과_97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_143.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_154.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_155.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_169.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_181.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_182.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_194.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_209.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_235.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_236.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_354.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_355.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_369.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_397.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_419.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_427.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/durian/두리안_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_127.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_134.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_155.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_157.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_160.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_168.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_176.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_177.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_182.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_194.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_195.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_201.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_204.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_213.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_250.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_251.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_259.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_261.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_270.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_271.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_284.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_295.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_300.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_309.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_316.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_330.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_336.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_339.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_342.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_346.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_361.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_362.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_371.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_378.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_383.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_392.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_408.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_423.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_426.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_428.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_434.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_436.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_445.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_453.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_461.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_470.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_475.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_516.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_533.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_537.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_559.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_577.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_589.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_607.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_611.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_612.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_615.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_634.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_636.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_638.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_686.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_697.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_708.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_709.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_729.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_737.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_738.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_92.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_95.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit0/망고_98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_127.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_134.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_143.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_154.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_160.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_161.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_165.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_169.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_170.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_171.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_172.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_175.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_176.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_178.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_183.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_184.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_185.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_187.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_189.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_190.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_196.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_197.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_201.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_202.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_207.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_212.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_213.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_214.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_217.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_219.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_220.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_223.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_233.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_236.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_252.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_258.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_261.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_262.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_263.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_267.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_270.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_274.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_278.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_281.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_284.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_287.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_288.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_291.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_292.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_297.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_299.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_302.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_305.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_309.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_312.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_317.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_319.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_325.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_332.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_339.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_342.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_357.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_358.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_363.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_367.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_373.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_379.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_391.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_422.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_423.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_427.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_476.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_92.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_93.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit1/용과_99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit2/리치_94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_143.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_148.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_154.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_155.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_163.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_164.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_165.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_169.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_170.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_171.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_173.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_174.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_178.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_179.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_181.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_182.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_184.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_194.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_201.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_202.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_204.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_209.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_210.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_211.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_212.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_216.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_225.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_227.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_228.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_229.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_231.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_232.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_235.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_236.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_239.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_243.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_247.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_249.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_258.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_265.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_275.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_277.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_287.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_293.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_300.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_309.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_312.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_313.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_317.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_318.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_319.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_324.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_345.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_348.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_354.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_355.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_361.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_364.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_366.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_369.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_372.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_378.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_385.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_397.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_398.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_415.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_419.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_422.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_427.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_436.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_441.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_443.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_446.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_448.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_462.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_477.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_486.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_497.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_503.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_508.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_513.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_528.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_534.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_92.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/fruit3/두리안_99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/lychee/리치_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/lychee/리치_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/lychee/리치_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/lychee/리치_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/lychee/리치_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/lychee/리치_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/lychee/리치_69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/lychee/리치_94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_261.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_300.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_316.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_470.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_738.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/mango/망고_98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/전처리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/크롤링.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220531/후처리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/220525/MicrosoftTeams-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/220525/image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/220525/coco_bbox_sample_view_최종.py" beforeDir="false" afterPath="$PROJECT_DIR$/220525/과제1_박정민_최종.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/220516/16_수업자료.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/220517_annotation file 읽기/17_수업자료.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/220518/18_수업자료.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/220525/custom_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/220525/custom_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,28 +694,38 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29dRCrBkmzhEztUXgLZyo30AXmB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jaunnnngspc/Desktop/Jaunnnng문서/DATA_Analysis/2022 AI/220530&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/220530" />
+      <recent name="$PROJECT_DIR$/220531" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/220530" />
+      <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/220525/dataset/new_data" />
       <recent name="$PROJECT_DIR$/220525/dataset" />
       <recent name="$PROJECT_DIR$/220525" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.과제2_박정민_최종">
-    <configuration name="과제1_박정민_최종" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.opencv_gui">
+    <configuration name="크롤링" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2022 AI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +733,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220525" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220531" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220525/과제1_박정민_최종.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220531/크롤링.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +746,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="과제2_박정민_최종" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2022 AI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +754,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220525" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/opt/anaconda3/envs/fakepython/lib/python3.9/site-packages/PIL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220525/과제2_박정민_최종.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/opt/anaconda3/envs/fakepython/lib/python3.9/site-packages/PIL/Image.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +767,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="coco_polygon_sample_view" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="후처리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2022 AI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +775,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220525" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220531" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220525/coco_polygon_sample_view.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220531/후처리.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="전처리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2022 AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220531" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220531/전처리.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opencv_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2022 AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220530" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220530/opencv_gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,9 +832,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.과제2_박정민_최종" />
-        <item itemvalue="Python.과제1_박정민_최종" />
-        <item itemvalue="Python.coco_polygon_sample_view" />
+        <item itemvalue="Python.opencv_gui" />
+        <item itemvalue="Python.크롤링" />
+        <item itemvalue="Python.Image" />
       </list>
     </recent_temporary>
   </component>
@@ -139,5 +859,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
